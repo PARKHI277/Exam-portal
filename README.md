@@ -1,5 +1,7 @@
 # Exam Portal
 
+Link -  https://csiakgecportal.netlify.app/
+
 ## Introduction
 
 The Exam Portal is a web-based application designed to streamline the recruitment process for 2nd-year students interested in joining the college technical society. This project leverages a variety of technologies, including Node.js, Express.js, MongoDB, Nodemailer, Mongoose, and Cyclic, to create an efficient and user-friendly platform for the selection process.
